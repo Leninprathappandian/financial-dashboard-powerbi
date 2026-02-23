@@ -2,4 +2,4 @@
 Financial Dashboard built using Power BI during my internship
 ## 📷 Dashboard Preview
 
-![Overview](overview.png)
+![Overview](images/overview.png)
